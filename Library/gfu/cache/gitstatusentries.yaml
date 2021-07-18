@@ -1,0 +1,628 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2021-07-18T22:10:11.295+03:00
+  initializedAtString: 2021-07-18T21:58:03.267+03:00
+  entries:
+  - path: Assets\Resources\FoodPickups\Ananas.asset
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Assets\Resources\FoodPickups\Ananas.asset
+    projectPath: Assets\Resources\FoodPickups\Ananas.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: "Assets\\Resources\\FoodPickups\\Bal\u0131k.asset"
+    fullPath: "C:\\Users\\yagiz\\unity Projects\\HealthRacer_2\\Assets\\Resources\\FoodPickups\\Bal\u0131k.asset"
+    projectPath: "Assets\\Resources\\FoodPickups\\Bal\u0131k.asset"
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Resources\FoodPickups\Biber.asset
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Assets\Resources\FoodPickups\Biber.asset
+    projectPath: Assets\Resources\FoodPickups\Biber.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Resources\FoodPickups\Biftek.asset
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Assets\Resources\FoodPickups\Biftek.asset
+    projectPath: Assets\Resources\FoodPickups\Biftek.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: "Assets\\Resources\\FoodPickups\\\xC7in Mant\u0131s\u0131.asset"
+    fullPath: "C:\\Users\\yagiz\\unity Projects\\HealthRacer_2\\Assets\\Resources\\FoodPickups\\\xC7in
+      Mant\u0131s\u0131.asset"
+    projectPath: "Assets\\Resources\\FoodPickups\\\xC7in Mant\u0131s\u0131.asset"
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: "Assets\\Resources\\FoodPickups\\Dolmal\u0131k Biber.asset"
+    fullPath: "C:\\Users\\yagiz\\unity Projects\\HealthRacer_2\\Assets\\Resources\\FoodPickups\\Dolmal\u0131k
+      Biber.asset"
+    projectPath: "Assets\\Resources\\FoodPickups\\Dolmal\u0131k Biber.asset"
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Resources\FoodPickups\Domates.asset
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Assets\Resources\FoodPickups\Domates.asset
+    projectPath: Assets\Resources\FoodPickups\Domates.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Resources\FoodPickups\Dondurma.asset
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Assets\Resources\FoodPickups\Dondurma.asset
+    projectPath: Assets\Resources\FoodPickups\Dondurma.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Resources\FoodPickups\Ekler.asset
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Assets\Resources\FoodPickups\Ekler.asset
+    projectPath: Assets\Resources\FoodPickups\Ekler.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Resources\FoodPickups\Ekmek.asset
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Assets\Resources\FoodPickups\Ekmek.asset
+    projectPath: Assets\Resources\FoodPickups\Ekmek.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: "Assets\\Resources\\FoodPickups\\Gazl\u0131 \u0130\xE7ecek.asset"
+    fullPath: "C:\\Users\\yagiz\\unity Projects\\HealthRacer_2\\Assets\\Resources\\FoodPickups\\Gazl\u0131
+      \u0130\xE7ecek.asset"
+    projectPath: "Assets\\Resources\\FoodPickups\\Gazl\u0131 \u0130\xE7ecek.asset"
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Resources\FoodPickups\Hamburger.asset
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Assets\Resources\FoodPickups\Hamburger.asset
+    projectPath: Assets\Resources\FoodPickups\Hamburger.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Resources\FoodPickups\Hindistan Cevizi.asset
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Assets\Resources\FoodPickups\Hindistan
+      Cevizi.asset
+    projectPath: Assets\Resources\FoodPickups\Hindistan Cevizi.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: "Assets\\Resources\\FoodPickups\\\u0130zmir Bombas\u0131.asset"
+    fullPath: "C:\\Users\\yagiz\\unity Projects\\HealthRacer_2\\Assets\\Resources\\FoodPickups\\\u0130zmir
+      Bombas\u0131.asset"
+    projectPath: "Assets\\Resources\\FoodPickups\\\u0130zmir Bombas\u0131.asset"
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Resources\FoodPickups\Karides.asset
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Assets\Resources\FoodPickups\Karides.asset
+    projectPath: Assets\Resources\FoodPickups\Karides.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Resources\FoodPickups\Karpuz.asset
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Assets\Resources\FoodPickups\Karpuz.asset
+    projectPath: Assets\Resources\FoodPickups\Karpuz.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Resources\FoodPickups\Kebap.asset
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Assets\Resources\FoodPickups\Kebap.asset
+    projectPath: Assets\Resources\FoodPickups\Kebap.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: "Assets\\Resources\\FoodPickups\\K\xF6fte.asset"
+    fullPath: "C:\\Users\\yagiz\\unity Projects\\HealthRacer_2\\Assets\\Resources\\FoodPickups\\K\xF6fte.asset"
+    projectPath: "Assets\\Resources\\FoodPickups\\K\xF6fte.asset"
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Resources\FoodPickups\Kruvasan.asset
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Assets\Resources\FoodPickups\Kruvasan.asset
+    projectPath: Assets\Resources\FoodPickups\Kruvasan.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: "Assets\\Resources\\FoodPickups\\K\xFClah Dondurma.asset"
+    fullPath: "C:\\Users\\yagiz\\unity Projects\\HealthRacer_2\\Assets\\Resources\\FoodPickups\\K\xFClah
+      Dondurma.asset"
+    projectPath: "Assets\\Resources\\FoodPickups\\K\xFClah Dondurma.asset"
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Resources\FoodPickups\Lahmacun.asset
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Assets\Resources\FoodPickups\Lahmacun.asset
+    projectPath: Assets\Resources\FoodPickups\Lahmacun.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Resources\FoodPickups\Mantar.asset
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Assets\Resources\FoodPickups\Mantar.asset
+    projectPath: Assets\Resources\FoodPickups\Mantar.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Resources\FoodPickups\Marul.asset
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Assets\Resources\FoodPickups\Marul.asset
+    projectPath: Assets\Resources\FoodPickups\Marul.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Resources\FoodPickups\Mini Kek.asset
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Assets\Resources\FoodPickups\Mini
+      Kek.asset
+    projectPath: Assets\Resources\FoodPickups\Mini Kek.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Resources\FoodPickups\Muz.asset
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Assets\Resources\FoodPickups\Muz.asset
+    projectPath: Assets\Resources\FoodPickups\Muz.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Resources\FoodPickups\Omlet.asset
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Assets\Resources\FoodPickups\Omlet.asset
+    projectPath: Assets\Resources\FoodPickups\Omlet.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: "Assets\\Resources\\FoodPickups\\Patates K\u0131zartmas\u0131.asset"
+    fullPath: "C:\\Users\\yagiz\\unity Projects\\HealthRacer_2\\Assets\\Resources\\FoodPickups\\Patates
+      K\u0131zartmas\u0131.asset"
+    projectPath: "Assets\\Resources\\FoodPickups\\Patates K\u0131zartmas\u0131.asset"
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Resources\FoodPickups\Peynir.asset
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Assets\Resources\FoodPickups\Peynir.asset
+    projectPath: Assets\Resources\FoodPickups\Peynir.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Resources\FoodPickups\Pilav.asset
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Assets\Resources\FoodPickups\Pilav.asset
+    projectPath: Assets\Resources\FoodPickups\Pilav.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: "Assets\\Resources\\FoodPickups\\So\u011Fan.asset"
+    fullPath: "C:\\Users\\yagiz\\unity Projects\\HealthRacer_2\\Assets\\Resources\\FoodPickups\\So\u011Fan.asset"
+    projectPath: "Assets\\Resources\\FoodPickups\\So\u011Fan.asset"
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Resources\FoodPickups\Sosis.asset
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Assets\Resources\FoodPickups\Sosis.asset
+    projectPath: Assets\Resources\FoodPickups\Sosis.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Resources\FoodPickups\Sosisli.asset
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Assets\Resources\FoodPickups\Sosisli.asset
+    projectPath: Assets\Resources\FoodPickups\Sosisli.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: "Assets\\Resources\\FoodPickups\\Su\u015Fi.asset"
+    fullPath: "C:\\Users\\yagiz\\unity Projects\\HealthRacer_2\\Assets\\Resources\\FoodPickups\\Su\u015Fi.asset"
+    projectPath: "Assets\\Resources\\FoodPickups\\Su\u015Fi.asset"
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Resources\FoodPickups\Tavuk.asset
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Assets\Resources\FoodPickups\Tavuk.asset
+    projectPath: Assets\Resources\FoodPickups\Tavuk.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Resources\FoodPickups\Tost.asset
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Assets\Resources\FoodPickups\Tost.asset
+    projectPath: Assets\Resources\FoodPickups\Tost.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Resources\FoodPickups\Tuzlu Salam.asset
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Assets\Resources\FoodPickups\Tuzlu
+      Salam.asset
+    projectPath: Assets\Resources\FoodPickups\Tuzlu Salam.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: "Assets\\Resources\\FoodPickups\\Ya\u011Fda Hamsi.asset"
+    fullPath: "C:\\Users\\yagiz\\unity Projects\\HealthRacer_2\\Assets\\Resources\\FoodPickups\\Ya\u011Fda
+      Hamsi.asset"
+    projectPath: "Assets\\Resources\\FoodPickups\\Ya\u011Fda Hamsi.asset"
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scenes\Levels\HealthRacer\HealthRacer.unity
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Assets\Scenes\Levels\HealthRacer\HealthRacer.unity
+    projectPath: Assets\Scenes\Levels\HealthRacer\HealthRacer.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ArtifactDB
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Library\ArtifactDB
+    projectPath: Library\ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Artifacts\00\00a1628edcc81c22ae5c3be68e818598
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Library\Artifacts\00\00a1628edcc81c22ae5c3be68e818598
+    projectPath: Library\Artifacts\00\00a1628edcc81c22ae5c3be68e818598
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\05\051834bfeda88e5e43aa5a64575b5f2a
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Library\Artifacts\05\051834bfeda88e5e43aa5a64575b5f2a
+    projectPath: Library\Artifacts\05\051834bfeda88e5e43aa5a64575b5f2a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\13\137a1455402b8802a64bd05c812f9598
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Library\Artifacts\13\137a1455402b8802a64bd05c812f9598
+    projectPath: Library\Artifacts\13\137a1455402b8802a64bd05c812f9598
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\17\17f93b4253ae08955d566860a2549fb5
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Library\Artifacts\17\17f93b4253ae08955d566860a2549fb5
+    projectPath: Library\Artifacts\17\17f93b4253ae08955d566860a2549fb5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\20\202ff73ebf68e014a61d7b56416fb380
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Library\Artifacts\20\202ff73ebf68e014a61d7b56416fb380
+    projectPath: Library\Artifacts\20\202ff73ebf68e014a61d7b56416fb380
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\21\2178a8a0fa8308fcfa83c6c3cf779a0c
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Library\Artifacts\21\2178a8a0fa8308fcfa83c6c3cf779a0c
+    projectPath: Library\Artifacts\21\2178a8a0fa8308fcfa83c6c3cf779a0c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\23\23c82d21e9d8a995bb4597094db7f314
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Library\Artifacts\23\23c82d21e9d8a995bb4597094db7f314
+    projectPath: Library\Artifacts\23\23c82d21e9d8a995bb4597094db7f314
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\25\25b9ae35c5bc607e16a0c360b2b628f3
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Library\Artifacts\25\25b9ae35c5bc607e16a0c360b2b628f3
+    projectPath: Library\Artifacts\25\25b9ae35c5bc607e16a0c360b2b628f3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\28\28840cd07b27e1afd2e2a5026af6cfb1
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Library\Artifacts\28\28840cd07b27e1afd2e2a5026af6cfb1
+    projectPath: Library\Artifacts\28\28840cd07b27e1afd2e2a5026af6cfb1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\35\35def34a39193460a17ed1fbe7093ae9
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Library\Artifacts\35\35def34a39193460a17ed1fbe7093ae9
+    projectPath: Library\Artifacts\35\35def34a39193460a17ed1fbe7093ae9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\38\38b67b39fa1b6db0f6560362e3cdc0c2
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Library\Artifacts\38\38b67b39fa1b6db0f6560362e3cdc0c2
+    projectPath: Library\Artifacts\38\38b67b39fa1b6db0f6560362e3cdc0c2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\3f\3f0c7c84d4377188adfc59d6a60374ab
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Library\Artifacts\3f\3f0c7c84d4377188adfc59d6a60374ab
+    projectPath: Library\Artifacts\3f\3f0c7c84d4377188adfc59d6a60374ab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\41\41fcdb6135350f56edc922350b0bccc6
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Library\Artifacts\41\41fcdb6135350f56edc922350b0bccc6
+    projectPath: Library\Artifacts\41\41fcdb6135350f56edc922350b0bccc6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\49\4945be23709b35b3e15a61f785bfc43d
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Library\Artifacts\49\4945be23709b35b3e15a61f785bfc43d
+    projectPath: Library\Artifacts\49\4945be23709b35b3e15a61f785bfc43d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\4d\4de0d58f8587b65bded9ad8771a5f5af
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Library\Artifacts\4d\4de0d58f8587b65bded9ad8771a5f5af
+    projectPath: Library\Artifacts\4d\4de0d58f8587b65bded9ad8771a5f5af
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\56\56f4f704c5ac03d058ea5cebe81bfb60
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Library\Artifacts\56\56f4f704c5ac03d058ea5cebe81bfb60
+    projectPath: Library\Artifacts\56\56f4f704c5ac03d058ea5cebe81bfb60
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\5d\5d2ea3f7f7a726e0407d347fe11dffe5
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Library\Artifacts\5d\5d2ea3f7f7a726e0407d347fe11dffe5
+    projectPath: Library\Artifacts\5d\5d2ea3f7f7a726e0407d347fe11dffe5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\5f\5f0db04731d9ca1ae47ca75c041a97db
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Library\Artifacts\5f\5f0db04731d9ca1ae47ca75c041a97db
+    projectPath: Library\Artifacts\5f\5f0db04731d9ca1ae47ca75c041a97db
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\6a\6a20a095b916d52c9e379a3c2d770bb8
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Library\Artifacts\6a\6a20a095b916d52c9e379a3c2d770bb8
+    projectPath: Library\Artifacts\6a\6a20a095b916d52c9e379a3c2d770bb8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\6a\6a524aee0bdc8fc8e2a49bcab2001b50
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Library\Artifacts\6a\6a524aee0bdc8fc8e2a49bcab2001b50
+    projectPath: Library\Artifacts\6a\6a524aee0bdc8fc8e2a49bcab2001b50
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\70\703e1bb2f2b5e44cc43d99df158e70db
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Library\Artifacts\70\703e1bb2f2b5e44cc43d99df158e70db
+    projectPath: Library\Artifacts\70\703e1bb2f2b5e44cc43d99df158e70db
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\74\7484dacc8cbf9eefa3b395f4127658c4
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Library\Artifacts\74\7484dacc8cbf9eefa3b395f4127658c4
+    projectPath: Library\Artifacts\74\7484dacc8cbf9eefa3b395f4127658c4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\78\7839af2e31dca13ebbf1f471a58d29bb
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Library\Artifacts\78\7839af2e31dca13ebbf1f471a58d29bb
+    projectPath: Library\Artifacts\78\7839af2e31dca13ebbf1f471a58d29bb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\78\784e9af3491ebbe1e54c8c50b04c8b89
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Library\Artifacts\78\784e9af3491ebbe1e54c8c50b04c8b89
+    projectPath: Library\Artifacts\78\784e9af3491ebbe1e54c8c50b04c8b89
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\7a\7a114159af0952e5f980722a521c3fd5
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Library\Artifacts\7a\7a114159af0952e5f980722a521c3fd5
+    projectPath: Library\Artifacts\7a\7a114159af0952e5f980722a521c3fd5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\7a\7ac809155688f8d74fee1deb162136cb
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Library\Artifacts\7a\7ac809155688f8d74fee1deb162136cb
+    projectPath: Library\Artifacts\7a\7ac809155688f8d74fee1deb162136cb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\8c\8c7f6d5ea3ea1f2372c9cda7659cc360
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Library\Artifacts\8c\8c7f6d5ea3ea1f2372c9cda7659cc360
+    projectPath: Library\Artifacts\8c\8c7f6d5ea3ea1f2372c9cda7659cc360
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\8e\8e173658fa3de8363748eba8066ca6bf
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Library\Artifacts\8e\8e173658fa3de8363748eba8066ca6bf
+    projectPath: Library\Artifacts\8e\8e173658fa3de8363748eba8066ca6bf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\95\95accbefe0f7b06d55343426e94419d4
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Library\Artifacts\95\95accbefe0f7b06d55343426e94419d4
+    projectPath: Library\Artifacts\95\95accbefe0f7b06d55343426e94419d4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\9c\9ce84611b36c2ef3495f7b7da074a637
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Library\Artifacts\9c\9ce84611b36c2ef3495f7b7da074a637
+    projectPath: Library\Artifacts\9c\9ce84611b36c2ef3495f7b7da074a637
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\9f\9fbbcfaaf4ce3272bbb12cc122614a7a
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Library\Artifacts\9f\9fbbcfaaf4ce3272bbb12cc122614a7a
+    projectPath: Library\Artifacts\9f\9fbbcfaaf4ce3272bbb12cc122614a7a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\bf\bf2ce5a34508c8cfbfc9fa3af609a924
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Library\Artifacts\bf\bf2ce5a34508c8cfbfc9fa3af609a924
+    projectPath: Library\Artifacts\bf\bf2ce5a34508c8cfbfc9fa3af609a924
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c0\c08610e4fdaa07c47671ba659bcb991b
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Library\Artifacts\c0\c08610e4fdaa07c47671ba659bcb991b
+    projectPath: Library\Artifacts\c0\c08610e4fdaa07c47671ba659bcb991b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\c4\c4ea4d0348db0085a4a3b64ed75ecfdb
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Library\Artifacts\c4\c4ea4d0348db0085a4a3b64ed75ecfdb
+    projectPath: Library\Artifacts\c4\c4ea4d0348db0085a4a3b64ed75ecfdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\cb\cbd53ab6a9f90f4e6f37b0346c3e8cd5
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Library\Artifacts\cb\cbd53ab6a9f90f4e6f37b0346c3e8cd5
+    projectPath: Library\Artifacts\cb\cbd53ab6a9f90f4e6f37b0346c3e8cd5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\cc\cc4e06e68a2f0945cdf3a3b4f96dc60b
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Library\Artifacts\cc\cc4e06e68a2f0945cdf3a3b4f96dc60b
+    projectPath: Library\Artifacts\cc\cc4e06e68a2f0945cdf3a3b4f96dc60b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\cc\ccd4eb5afacb0f340e032eea4f842d78
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Library\Artifacts\cc\ccd4eb5afacb0f340e032eea4f842d78
+    projectPath: Library\Artifacts\cc\ccd4eb5afacb0f340e032eea4f842d78
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\d1\d1a5a3d598a61fcd5c0aecab75d00b1d
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Library\Artifacts\d1\d1a5a3d598a61fcd5c0aecab75d00b1d
+    projectPath: Library\Artifacts\d1\d1a5a3d598a61fcd5c0aecab75d00b1d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\da\da278eea63cc8b6d5e25ccaeba8a70d4
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Library\Artifacts\da\da278eea63cc8b6d5e25ccaeba8a70d4
+    projectPath: Library\Artifacts\da\da278eea63cc8b6d5e25ccaeba8a70d4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e3\e30dc79e437b5dc38da7d532a974f592
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Library\Artifacts\e3\e30dc79e437b5dc38da7d532a974f592
+    projectPath: Library\Artifacts\e3\e30dc79e437b5dc38da7d532a974f592
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e8\e80e33801dfdb4f6f7f7c61eb6d62444
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Library\Artifacts\e8\e80e33801dfdb4f6f7f7c61eb6d62444
+    projectPath: Library\Artifacts\e8\e80e33801dfdb4f6f7f7c61eb6d62444
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\e8\e819ba0c6f655a393389647387818560
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Library\Artifacts\e8\e819ba0c6f655a393389647387818560
+    projectPath: Library\Artifacts\e8\e819ba0c6f655a393389647387818560
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e9\e9212981d26ae718148f1f52e3441267
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Library\Artifacts\e9\e9212981d26ae718148f1f52e3441267
+    projectPath: Library\Artifacts\e9\e9212981d26ae718148f1f52e3441267
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e9\e9f703b1b64849f84068b8d76b45d7ab
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Library\Artifacts\e9\e9f703b1b64849f84068b8d76b45d7ab
+    projectPath: Library\Artifacts\e9\e9f703b1b64849f84068b8d76b45d7ab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f7\f7dbddb69a49eccb4f97be08208265c6
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Library\Artifacts\f7\f7dbddb69a49eccb4f97be08208265c6
+    projectPath: Library\Artifacts\f7\f7dbddb69a49eccb4f97be08208265c6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\CurrentMaximizeLayout.dwlt
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Library\CurrentMaximizeLayout.dwlt
+    projectPath: Library\CurrentMaximizeLayout.dwlt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\EditorInstance.json
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\SceneVisibilityState.asset
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Library\SceneVisibilityState.asset
+    projectPath: Library\SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ShaderCache.db
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Library\ShaderCache.db
+    projectPath: Library\ShaderCache.db
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ShaderCache\EditorEncounteredVariants
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Library\ShaderCache\EditorEncounteredVariants
+    projectPath: Library\ShaderCache\EditorEncounteredVariants
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\SourceAssetDB
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Library\SourceAssetDB
+    projectPath: Library\SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\StateCache\MainStageHierarchy\5e\5ee1ab98751598a41d8547694482623e.json
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Library\StateCache\MainStageHierarchy\5e\5ee1ab98751598a41d8547694482623e.json
+    projectPath: Library\StateCache\MainStageHierarchy\5e\5ee1ab98751598a41d8547694482623e.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\StateCache\SceneView\5e\5e3de52e1808d531877ed235080ba30a.json
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Library\StateCache\SceneView\5e\5e3de52e1808d531877ed235080ba30a.json
+    projectPath: Library\StateCache\SceneView\5e\5e3de52e1808d531877ed235080ba30a.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ReadmeSources\Img1.bmp
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\ReadmeSources\Img1.bmp
+    projectPath: ReadmeSources\Img1.bmp
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\__Backupscenes\0.backup
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityLockfile
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\workerlic
+    fullPath: C:\Users\yagiz\unity Projects\HealthRacer_2\Temp\workerlic
+    projectPath: Temp\workerlic
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
