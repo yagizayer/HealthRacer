@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f421fcf1b7f0bad49b6ed9229d636ce3, type: 3}
   m_Name: Muz
   m_EditorClassIdentifier: 
-  _name: Muz
+  _name: Banana
   ACP: 0
   BP: 10
   shape: {fileID: 4300000, guid: 6d05be1b78e41a948b8d50bee67bce65, type: 3}

@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f421fcf1b7f0bad49b6ed9229d636ce3, type: 3}
   m_Name: "K\xF6fte"
   m_EditorClassIdentifier: 
-  _name: "K\xF6fte"
+  _name: Steak
   ACP: 0
   BP: 10
   shape: {fileID: 4300000, guid: 8cd4586ebadd1934b84fdbadcc9a8072, type: 3}

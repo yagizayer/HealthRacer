@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f421fcf1b7f0bad49b6ed9229d636ce3, type: 3}
   m_Name: Tost
   m_EditorClassIdentifier: 
-  _name: Tost
+  _name: Toast
   ACP: 2
   BP: 8
   shape: {fileID: 4300000, guid: 89fa4591116121c4b913814b32d75494, type: 3}

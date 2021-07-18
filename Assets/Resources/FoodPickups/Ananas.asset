@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f421fcf1b7f0bad49b6ed9229d636ce3, type: 3}
   m_Name: Ananas
   m_EditorClassIdentifier: 
-  _name: Ananas
+  _name: Pineapple
   ACP: 0
   BP: 10
   shape: {fileID: 4300000, guid: 82731c4f4b197fb49a6a473836aefbb7, type: 3}

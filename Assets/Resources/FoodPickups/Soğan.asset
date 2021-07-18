@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f421fcf1b7f0bad49b6ed9229d636ce3, type: 3}
   m_Name: "So\u011Fan"
   m_EditorClassIdentifier: 
-  _name: "So\u011Fan"
+  _name: Onion
   ACP: 0
   BP: 10
   shape: {fileID: 4300002, guid: 56be052822e0d8d459a1d331a09d5f8a, type: 3}

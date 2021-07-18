@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f421fcf1b7f0bad49b6ed9229d636ce3, type: 3}
   m_Name: Sosisli
   m_EditorClassIdentifier: 
-  _name: Sosisli
+  _name: Hotdog
   ACP: 8
   BP: 2
   shape: {fileID: 4300000, guid: 262d1a6f513ed5b4fb329e79b124e2cf, type: 3}

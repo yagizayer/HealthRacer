@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f421fcf1b7f0bad49b6ed9229d636ce3, type: 3}
   m_Name: Mantar
   m_EditorClassIdentifier: 
-  _name: Mantar
+  _name: Mushroom
   ACP: 0
   BP: 10
   shape: {fileID: 4300000, guid: f146753048df47a489d094c6e46d0a00, type: 3}

@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f421fcf1b7f0bad49b6ed9229d636ce3, type: 3}
   m_Name: "Su\u015Fi"
   m_EditorClassIdentifier: 
-  _name: "Su\u015Fi"
+  _name: Sushi
   ACP: 6
   BP: 4
   shape: {fileID: 4300000, guid: ba6ceeaf951f3f143afe3555f8a977ad, type: 3}

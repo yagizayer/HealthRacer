@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f421fcf1b7f0bad49b6ed9229d636ce3, type: 3}
   m_Name: "Gazl\u0131 \u0130\xE7ecek"
   m_EditorClassIdentifier: 
-  _name: "Gazl\u0131 \u0130\xE7ecek"
+  _name: Bottled Soda
   ACP: 9
   BP: 1
   shape: {fileID: 4300000, guid: 6c7dbfd367d792747aa39a4afc52eb72, type: 3}

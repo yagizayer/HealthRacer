@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f421fcf1b7f0bad49b6ed9229d636ce3, type: 3}
   m_Name: "\xC7in Mant\u0131s\u0131"
   m_EditorClassIdentifier: 
-  _name: "\xC7in Mant\u0131s\u0131"
+  _name: Gyoza
   ACP: 1
   BP: 9
   shape: {fileID: 4300000, guid: 59f24a1b5c71cc24386b59e448df778e, type: 3}

@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f421fcf1b7f0bad49b6ed9229d636ce3, type: 3}
   m_Name: Omlet
   m_EditorClassIdentifier: 
-  _name: Omlet
+  _name: Omelette
   ACP: 0
   BP: 10
   shape: {fileID: 4300000, guid: 548aff7ba0442794b8a03675e59f574c, type: 3}

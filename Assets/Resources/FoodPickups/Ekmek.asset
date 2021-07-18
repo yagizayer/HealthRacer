@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f421fcf1b7f0bad49b6ed9229d636ce3, type: 3}
   m_Name: Ekmek
   m_EditorClassIdentifier: 
-  _name: Ekmek
+  _name: Bread
   ACP: 0
   BP: 10
   shape: {fileID: 4300000, guid: 4003a6e41cba6ab4fbe00f575654cdb1, type: 3}

@@ -1614,7 +1614,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "(Herhangi bir yere t\u0131kla)"
+  m_Text: (Touch anywhere to continue)
 --- !u!222 &135021554
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -23338,7 +23338,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "Al\u0131\u015Fveri\u015Fe Ho\u015F Geldin"
+  m_Text: Welcome to Shop
 --- !u!222 &2084541793
 CanvasRenderer:
   m_ObjectHideFlags: 0

@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f421fcf1b7f0bad49b6ed9229d636ce3, type: 3}
   m_Name: Biber
   m_EditorClassIdentifier: 
-  _name: Biber
+  _name: Pepper
   ACP: 0
   BP: 10
   shape: {fileID: 4300002, guid: 6683a92d5ef9b8449a238c88b8f49b2d, type: 3}

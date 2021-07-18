@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f421fcf1b7f0bad49b6ed9229d636ce3, type: 3}
   m_Name: "Bal\u0131k"
   m_EditorClassIdentifier: 
-  _name: "Bal\u0131k"
+  _name: Fish
   ACP: 0
   BP: 10
   shape: {fileID: 4300000, guid: 901cc454df4ad724a93940db09be892e, type: 3}
