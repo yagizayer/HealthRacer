@@ -36,162 +36,83 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Demo\Swipe\Scripts\HotDogCard.cs" />
-     <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Demo\Symbols\OpenUrl.cs" />
-     <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Scripts\Utilities\ShaderID.cs" />
-     <Compile Include="Assets\3rd-Party\Supercyan Character Pack Free Sample\Scripts\DemoFree.cs" />
-     <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Scripts\Utilities\IndexedSet.cs" />
-     <Compile Include="Assets\Scripts\HealthRacer\3D\FoodDisplay.cs" />
-     <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Scripts\ShadowFactory.cs" />
-     <Compile Include="Assets\Scripts\HealthRacer\UI\UIDisplay.cs" />
-     <Compile Include="Assets\Scripts\HealthRacer\Management\CartContentControl.cs" />
      <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Scripts\Helper\InsetOnPress.cs" />
-     <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Scripts\Structure\BlendMode.cs" />
-     <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Scripts\Utilities\HashCode.cs" />
      <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Scripts\ShadowRenderer.MaskHandling.cs" />
-     <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Scripts\TrueShadow.Invalidator.cs" />
-     <Compile Include="Assets\Scripts\UI\TargetFrameRate.cs" />
-     <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Scripts\TrueShadow.Plugins.cs" />
-     <Compile Include="Assets\Scripts\HealthRacer\Management\LevelControl.cs" />
-     <Compile Include="Assets\3rd-Party\Supercyan Character Pack Free Sample\Scripts\SimpleSampleCharacterControl.cs" />
-     <Compile Include="Assets\Scripts\UI\RotateScreenToLandscape.cs" />
-     <Compile Include="Assets\3rd-Party\Free UI build package\Script\Togglescript.cs" />
-     <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Scripts\Helper\AnimatedBiStateButton.cs" />
+     <Compile Include="Assets\3rd-Party\Unity UI Samples\Scripts\ResizePanel.cs" />
      <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Scripts\ShadowSorter.cs" />
-     <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Scripts\PluginInterfaces.cs" />
-     <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Demo\Neumorphism\Scripts\AdsrBarGraphSource.cs" />
-     <Compile Include="Assets\Scripts\HealthRacer\Other\Food.cs" />
-     <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Scripts\Structure\ShadowRenderingRequest.cs" />
-     <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Scripts\Utilities\Utility.cs" />
-     <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Scripts\Effects\ScalableBlurConfig.cs" />
-     <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Demo\Inspiration\Scripts\DirectionalKnob.cs" />
-     <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Scripts\TrueShadow.cs" />
-     <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Demo\Neumorphism\Scripts\BarGraphBar.cs" />
-     <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Scripts\Effects\IBlurAlgorithm.cs" />
      <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Scripts\ShadowRenderer.cs" />
-     <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Demo\Neumorphism\Scripts\BarGraph.cs" />
      <Compile Include="Assets\3rd-Party\GUI Kit Mono Round\Scripts\PanelControl.cs" />
-     <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Scripts\Structure\ShadowContainer.cs" />
      <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Demo\Swipe\Scripts\GradientSlider.cs" />
-     <Compile Include="Assets\Scripts\UI\UI_Consts.cs" />
-     <Compile Include="Assets\3rd-Party\Free UI build package\Script\Slide.cs" />
-     <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Scripts\Utilities\PropertyDrawerAttributes.cs" />
-     <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Demo\Swipe\Scripts\FpsCounter.cs" />
-     <Compile Include="Assets\Scripts\HealthRacer\Other\FoodBaseIndicator.cs" />
-     <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Demo\Swipe\SwipeView\Swipable.cs" />
-     <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Scripts\DebugSettings.cs" />
      <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Demo\Symbols\SymbolsManager.cs" />
-     <Compile Include="Assets\Scripts\HealthRacer\Management\GameManagerHR.cs" />
-     <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Scripts\Structure\ColorBleedMode.cs" />
-     <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Scripts\Utilities\ExtensionMethods.cs" />
-     <Compile Include="Assets\Scripts\UI\UI_SetDynamicObjects.cs" />
-     <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Demo\Swipe\SwipeView\SwipeView.cs" />
-     <Compile Include="Assets\Scripts\UI\Identifiers\BackButtonIdentifier.cs" />
-     <Compile Include="Assets\Scripts\HealthRacer\Other\_Extesions.cs" />
-     <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Demo\Swipe\Scripts\HotDogSprite.cs" />
-     <Compile Include="Assets\3rd-Party\GUI Kit Mono Round\Scripts\Panel.cs" />
-     <Compile Include="Assets\Scripts\UI\UI_SceneManager.cs" />
-     <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Scripts\Effects\BlurConfig.cs" />
-     <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Scripts\TrueShadow.Baking.cs" />
      <Compile Include="Assets\Scripts\HealthRacer\UI\UIClick.cs" />
      <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Demo\Swipe\Scripts\HotDogSwipeView.cs" />
-     <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Scripts\Effects\ShaderProperties.cs" />
-     <Compile Include="Assets\3rd-Party\Supercyan Character Pack Free Sample\Scripts\FreeCameraLogic.cs" />
-     <Compile Include="Assets\Scripts\UI\UI_BlogLoader.cs" />
-     <Compile Include="Assets\Scripts\HealthRacer\NPC\DestinationPath.cs" />
-     <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Demo\Inspiration\Scripts\ToggleSwitchAnimation.cs" />
-     <Compile Include="Assets\Scripts\UI\PrepareBlog.cs" />
-     <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Scripts\Effects\ScalableBlur.cs" />
-     <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Demo\Swipe\SwipeView\LeftRightSwipeView.cs" />
-     <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Scripts\Utilities\Math.cs" />
-     <Compile Include="Assets\Scripts\HealthRacer\3D\PlayerControls.cs" />
-     <Compile Include="Assets\Scripts\HealthRacer\Other\_Helper.cs" />
+     <Compile Include="Assets\3rd-Party\Unity UI Samples\Scripts\DragPanel.cs" />
      <Compile Include="Assets\Scripts\HealthRacer\NPC\ControlNPCs.cs" />
-     <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Demo\Neumorphism\Scripts\AdsrEnvelop.cs" />
-     <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Scripts\Helper\InteractiveShadow.cs" />
-     <Compile Include="Assets\Scripts\SystemsAndOrgans\MouseDrag.cs" />
-     <Compile Include="Assets\3rd-Party\Unity UI Samples\Scripts\ShowSliderValue.cs" />
-     <Compile Include="Assets\Scripts\Puzzle\Menu\MenuBtnHandler.cs" />
-     <Compile Include="Assets\Scripts\SystemsAndOrgans\SoundHandler.cs" />
-     <Compile Include="Assets\Scripts\Puzzle\TextScripts\HSBColor.cs" />
-     <Compile Include="Assets\Scripts\Puzzle\TextScripts\VertexColorCycler.cs" />
-     <Compile Include="Assets\Scripts\3D Viewer\SlideList.cs" />
-     <Compile Include="Assets\Scripts\3D Viewer\PositionContext.cs" />
-     <Compile Include="Assets\Scripts\Puzzle\Jigsaw\DragAndDrop_.cs" />
-     <Compile Include="Assets\Scripts\AntibodyGame\DestroyObject.cs" />
-     <Compile Include="Assets\3rd-Party\Unity UI Samples\Scripts\ResizePanel.cs" />
-     <Compile Include="Assets\3rd-Party\Unity UI Samples\Scripts\ScrollDetailTexture.cs" />
-     <Compile Include="Assets\Scripts\CompleteOurBody\ItemSlot.cs" />
-     <Compile Include="Assets\Scripts\3D Viewer\Mobile_ZoomInOut.cs" />
-     <Compile Include="Assets\Scripts\Puzzle\TextScripts\TextProOnACircle.cs" />
-     <Compile Include="Assets\Scripts\AntibodyGame\MainMenuManager.cs" />
-     <Compile Include="Assets\Scripts\SystemsAndOrgans\DisplayName.cs" />
-     <Compile Include="Assets\Scripts\SystemsAndOrgans\RotateObject.cs" />
-     <Compile Include="Assets\Scripts\Puzzle\Jigsaw\GetCurrentPuzzle.cs" />
-     <Compile Include="Assets\Scripts\CompleteOurBody\ButtonsScript.cs" />
-     <Compile Include="Assets\Scripts\FunctioningOfOrgans\TextWrite.cs" />
-     <Compile Include="Assets\Scripts\Puzzle\GeneralController.cs" />
-     <Compile Include="Assets\Scripts\AntibodyGame\AntibodyGameManager.cs" />
-     <Compile Include="Assets\Scripts\Puzzle\Grid\GridController.cs" />
+     <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Demo\Symbols\OpenUrl.cs" />
+     <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Demo\Swipe\Scripts\HotDogCard.cs" />
+     <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Scripts\Utilities\ShaderID.cs" />
+     <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Scripts\Utilities\HashCode.cs" />
+     <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Scripts\Utilities\Utility.cs" />
+     <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Scripts\Effects\ScalableBlurConfig.cs" />
+     <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Demo\Swipe\SwipeView\SwipeView.cs" />
+     <Compile Include="Assets\Scripts\HealthRacer\Other\_Helper.cs" />
+     <Compile Include="Assets\3rd-Party\Supercyan Character Pack Free Sample\Scripts\DemoFree.cs" />
+     <Compile Include="Assets\Scripts\HealthRacer\UI\UIDisplay.cs" />
+     <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Scripts\TrueShadow.Invalidator.cs" />
+     <Compile Include="Assets\3rd-Party\Supercyan Character Pack Free Sample\Scripts\SimpleSampleCharacterControl.cs" />
+     <Compile Include="Assets\3rd-Party\Free UI build package\Script\Slide.cs" />
+     <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Demo\Swipe\Scripts\FpsCounter.cs" />
      <Compile Include="Assets\3rd-Party\Unity UI Samples\Scripts\PanelManager.cs" />
      <Compile Include="Assets\3rd-Party\Unity UI Samples\Scripts\ApplicationManager.cs" />
-     <Compile Include="Assets\Scripts\DataHandling\BlogControl.cs" />
-     <Compile Include="Assets\Scripts\Puzzle\MusicClass.cs" />
-     <Compile Include="Assets\Scripts\AspectRatio\CameraAnchor.cs" />
-     <Compile Include="Assets\Scripts\3D Viewer\DisplayModel_UI.cs" />
-     <Compile Include="Assets\3rd-Party\Unity UI Samples\Scripts\DropMe.cs" />
-     <Compile Include="Assets\Scripts\SystemsAndOrgans\OrgSystemTriggered.cs" />
-     <Compile Include="Assets\Scripts\ToothGame\AudioController.cs" />
-     <Compile Include="Assets\Scripts\FunctioningOfOrgans\Controller.cs" />
-     <Compile Include="Assets\3rd-Party\Unity UI Samples\Scripts\DragPanel.cs" />
-     <Compile Include="Assets\Scripts\Puzzle\Jigsaw\piceseScript.cs" />
+     <Compile Include="Assets\3rd-Party\GUI Kit Mono Round\Scripts\Panel.cs" />
+     <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Scripts\Effects\ScalableBlur.cs" />
      <Compile Include="Assets\3rd-Party\Unity UI Samples\Scripts\ActiveStateToggler.cs" />
-     <Compile Include="Assets\3rd-Party\JMO Assets\Cartoon FX\Scripts\CFX_AutoDestructShuriken.cs" />
-     <Compile Include="Assets\Scripts\AntibodyGame\BloodCell.cs" />
-     <Compile Include="Assets\Scripts\ToothGame\MouseDragTooth.cs" />
-     <Compile Include="Assets\Scripts\CompleteOurBody\DragDrop.cs" />
-     <Compile Include="Assets\Scripts\ToothGame\ScoreSystemTooth.cs" />
-     <Compile Include="Assets\Scripts\3D Viewer\GetModel.cs" />
-     <Compile Include="Assets\Scripts\FunctioningOfOrgans\OrganInfo.cs" />
-     <Compile Include="Assets\Scripts\DataHandling\Blog.cs" />
-     <Compile Include="Assets\Scripts\Puzzle\TextScripts\TextProOnACurve.cs" />
-     <Compile Include="Assets\Scripts\Puzzle\Slide\ST_PuzzleDisplay.cs" />
-     <Compile Include="Assets\Scripts\FunctioningOfOrgans\RotateScript.cs" />
-     <Compile Include="Assets\Scripts\SystemsAndOrgans\AnimationManager.cs" />
-     <Compile Include="Assets\Scripts\3D Viewer\Model_SO.cs" />
-     <Compile Include="Assets\Scripts\Puzzle\TextScripts\TextColorizer.cs" />
-     <Compile Include="Assets\Scripts\3D Viewer\GameManager3DV.cs" />
-     <Compile Include="Assets\Scripts\ToothGame\AnimationController.cs" />
-     <Compile Include="Assets\Scripts\SystemsAndOrgans\ScoreSystem.cs" />
-     <Compile Include="Assets\Scripts\AntibodyGame\VirusType.cs" />
-     <Compile Include="Assets\Scripts\SystemsAndOrgans\CorrectOrganName.cs" />
-     <Compile Include="Assets\Scripts\SystemsAndOrgans\PauseMenu.cs" />
-     <Compile Include="Assets\Scripts\AntibodyGame\Virus.cs" />
-     <Compile Include="Assets\Scripts\CompleteOurBody\PreviewOrgans.cs" />
-     <Compile Include="Assets\Scripts\ToothGame\ButtonController.cs" />
-     <Compile Include="Assets\Scripts\Puzzle\Grid\GridMove.cs" />
-     <Compile Include="Assets\Scripts\CompleteOurBody\RandomOrgan.cs" />
-     <Compile Include="Assets\3rd-Party\Unity UI Samples\Scripts\ChangeColor.cs" />
-     <Compile Include="Assets\Scripts\Puzzle\TextScripts\TextProOnAExp.cs" />
-     <Compile Include="Assets\Scripts\AspectRatio\BackgroundFitter.cs" />
-     <Compile Include="Assets\Scripts\ToothGame\ToothBrush.cs" />
-     <Compile Include="Assets\Scripts\Puzzle\Slide\ST_PuzzleTile.cs" />
-     <Compile Include="Assets\Scripts\DataHandling\Networking\Requests.cs" />
-     <Compile Include="Assets\Scripts\SystemsAndOrgans\MainMenu.cs" />
-     <Compile Include="Assets\Scripts\SystemsAndOrgans\CursorArrow.cs" />
-     <Compile Include="Assets\Scripts\DataHandling\BlogConstants.cs" />
-     <Compile Include="Assets\Scripts\AspectRatio\ViewportHandler.cs" />
-     <Compile Include="Assets\Scripts\CompleteOurBody\HintSystem.cs" />
-     <Compile Include="Assets\Scripts\Puzzle\Menu\LoadMainMenu.cs" />
+     <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Demo\Neumorphism\Scripts\AdsrEnvelop.cs" />
+     <Compile Include="Assets\Scripts\HealthRacer\3D\FoodDisplay.cs" />
+     <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Scripts\TrueShadow.Plugins.cs" />
+     <Compile Include="Assets\Scripts\HealthRacer\Management\LevelControl.cs" />
+     <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Scripts\PluginInterfaces.cs" />
+     <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Scripts\Structure\ShadowRenderingRequest.cs" />
+     <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Scripts\Utilities\PropertyDrawerAttributes.cs" />
+     <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Scripts\DebugSettings.cs" />
      <Compile Include="Assets\3rd-Party\Unity UI Samples\Scripts\DragMe.cs" />
-     <Compile Include="Assets\Scripts\Puzzle\Time\LevelTimer.cs" />
-     <Compile Include="Assets\Scripts\AntibodyGame\Antibody.cs" />
+     <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Scripts\Effects\ShaderProperties.cs" />
+     <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Demo\Swipe\SwipeView\LeftRightSwipeView.cs" />
+     <Compile Include="Assets\3rd-Party\Unity UI Samples\Scripts\ShowSliderValue.cs" />
+     <Compile Include="Assets\3rd-Party\Free UI build package\Script\Togglescript.cs" />
+     <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Scripts\Helper\AnimatedBiStateButton.cs" />
+     <Compile Include="Assets\3rd-Party\Unity UI Samples\Scripts\ScrollDetailTexture.cs" />
+     <Compile Include="Assets\Scripts\HealthRacer\Other\Food.cs" />
+     <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Demo\Neumorphism\Scripts\BarGraphBar.cs" />
+     <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Scripts\Structure\ColorBleedMode.cs" />
+     <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Scripts\Utilities\ExtensionMethods.cs" />
+     <Compile Include="Assets\Scripts\HealthRacer\Other\_Extesions.cs" />
+     <Compile Include="Assets\3rd-Party\Unity UI Samples\Scripts\DropMe.cs" />
+     <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Scripts\TrueShadow.Baking.cs" />
+     <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Scripts\Utilities\IndexedSet.cs" />
+     <Compile Include="Assets\Scripts\HealthRacer\Management\CartContentControl.cs" />
+     <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Scripts\Structure\BlendMode.cs" />
+     <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Scripts\Effects\BlurConfig.cs" />
+     <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Scripts\Helper\InteractiveShadow.cs" />
+     <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Scripts\ShadowFactory.cs" />
+     <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Scripts\TrueShadow.cs" />
+     <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Demo\Neumorphism\Scripts\BarGraph.cs" />
+     <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Scripts\Structure\ShadowContainer.cs" />
+     <Compile Include="Assets\Scripts\HealthRacer\Other\FoodBaseIndicator.cs" />
+     <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Demo\Swipe\SwipeView\Swipable.cs" />
+     <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Demo\Inspiration\Scripts\ToggleSwitchAnimation.cs" />
+     <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Scripts\Utilities\Math.cs" />
+     <Compile Include="Assets\3rd-Party\JMO Assets\Cartoon FX\Scripts\CFX_AutoDestructShuriken.cs" />
+     <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Demo\Neumorphism\Scripts\AdsrBarGraphSource.cs" />
+     <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Demo\Inspiration\Scripts\DirectionalKnob.cs" />
+     <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Scripts\Effects\IBlurAlgorithm.cs" />
+     <Compile Include="Assets\3rd-Party\Unity UI Samples\Scripts\ChangeColor.cs" />
+     <Compile Include="Assets\Scripts\HealthRacer\Management\GameManagerHR.cs" />
+     <Compile Include="Assets\3rd-Party\Le Tai&apos;s Asset\TrueShadow\Demo\Swipe\Scripts\HotDogSprite.cs" />
+     <Compile Include="Assets\3rd-Party\Supercyan Character Pack Free Sample\Scripts\FreeCameraLogic.cs" />
      <Compile Include="Assets\3rd-Party\Unity UI Samples\Scripts\TiltWindow.cs" />
-     <Compile Include="Assets\Scripts\DataHandling\Utility.cs" />
-     <Compile Include="Assets\Scripts\AntibodyGame\Constants.cs" />
-     <Compile Include="Assets\Scripts\SystemsAndOrgans\ScoreAnimControl.cs" />
-     <Compile Include="Assets\Scripts\SystemsAndOrgans\AddComponents.cs" />
-     <Compile Include="Assets\Scripts\3D Viewer\RigRotator.cs" />
+     <Compile Include="Assets\Scripts\HealthRacer\NPC\DestinationPath.cs" />
+     <Compile Include="Assets\Scripts\HealthRacer\3D\PlayerControls.cs" />
      <None Include="Assets\3rd-Party\FREE Food Pack\Shaders\Food.shader" />
     <Reference Include="UnityEngine">
         <HintPath>C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
@@ -414,6 +335,9 @@
     </Reference>
     <Reference Include="UnityEditor.UnityConnectModule">
         <HintPath>C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/Managed/UnityEngine/UnityEditor.UnityConnectModule.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Burst.Unsafe">
+        <HintPath>C:/Users/yagiz/unity Projects/HealthRacer_2/Library/PackageCache/com.unity.burst@1.3.4/Unity.Burst.Unsafe.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json">
         <HintPath>C:/Users/yagiz/unity Projects/HealthRacer_2/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/Newtonsoft.Json.dll</HintPath>
@@ -766,6 +690,9 @@
     <Reference Include="Unity.VSCode.Editor">
         <HintPath>C:/Users/yagiz/unity Projects/HealthRacer_2/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.Burst">
+        <HintPath>C:/Users/yagiz/unity Projects/HealthRacer_2/Library/ScriptAssemblies/Unity.Burst.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
         <HintPath>C:/Users/yagiz/unity Projects/HealthRacer_2/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
@@ -781,17 +708,32 @@
     <Reference Include="Unity.TextMeshPro">
         <HintPath>C:/Users/yagiz/unity Projects/HealthRacer_2/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.Mathematics.Editor">
+        <HintPath>C:/Users/yagiz/unity Projects/HealthRacer_2/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Burst.Editor">
+        <HintPath>C:/Users/yagiz/unity Projects/HealthRacer_2/Library/ScriptAssemblies/Unity.Burst.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEditor.UI">
         <HintPath>C:/Users/yagiz/unity Projects/HealthRacer_2/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.PlasticSCM.Editor">
-        <HintPath>C:/Users/yagiz/unity Projects/HealthRacer_2/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
         <HintPath>C:/Users/yagiz/unity Projects/HealthRacer_2/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.Animation.Rigging.Editor">
+        <HintPath>C:/Users/yagiz/unity Projects/HealthRacer_2/Library/ScriptAssemblies/Unity.Animation.Rigging.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEngine.UI">
         <HintPath>C:/Users/yagiz/unity Projects/HealthRacer_2/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.PlasticSCM.Editor">
+        <HintPath>C:/Users/yagiz/unity Projects/HealthRacer_2/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Animation.Rigging">
+        <HintPath>C:/Users/yagiz/unity Projects/HealthRacer_2/Library/ScriptAssemblies/Unity.Animation.Rigging.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Mathematics">
+        <HintPath>C:/Users/yagiz/unity Projects/HealthRacer_2/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>

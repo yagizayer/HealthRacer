@@ -5,7 +5,7 @@ using UnityEngine.AI;
 
 public class ControlNPCs : MonoBehaviour
 {
-    private void Update()
+    private void FixedUpdate()
     {
         foreach (Transform NPC in transform)
         {
