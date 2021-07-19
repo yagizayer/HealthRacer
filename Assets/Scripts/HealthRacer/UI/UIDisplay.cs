@@ -21,7 +21,7 @@ public class UIDisplay : MonoBehaviour
     [Space]
 
     [Tooltip("Oyun alanında gösterilen Food nesnesi'nin adı")]
-    string foodName;
+    [HideInInspector]public string foodName;
     [Tooltip("Oyun alanında gösterilen Food nesnesi'nin adını gösteren Text nesnesi")]
     Text foodNameText;
     [Tooltip("Oyun alanında gösterilen Food nesnesi'nin Besin Puanı")]

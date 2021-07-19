@@ -3,7 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Ground
+  - FoodObject
+  - UI
+  - GFX
+  - UI_Button
+  - UI_Icon
+  - FoodsWrap
   layers:
   - Default
   - TransparentFX
