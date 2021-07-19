@@ -31,7 +31,7 @@ There are 4 different endings :
  ![Image 4](https://raw.githubusercontent.com/yagizayer/HealthRacer/main/ReadmeSources/Img4.bmp)
 
 ## Technology Details
-Used technologies in this project are :
+Technologies used in this project are :
  - Navmesh <br>![NavmeshImage](https://raw.githubusercontent.com/yagizayer/HealthRacer/main/ReadmeSources/Img8.bmp)
  - AnimationRigging<br>
 ![AnimationRiggingImage](https://raw.githubusercontent.com/yagizayer/HealthRacer/main/ReadmeSources/Img7.bmp)
