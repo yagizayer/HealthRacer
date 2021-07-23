@@ -1,6 +1,11 @@
 
 
 # Health Racer Game
+## Platform and Engine
+
+ - **Platform :** Android (4.0 or above)
+ - **Engine :** Unity 2020.3.12f1 
+ 
 ## Purpose and Plot
 The goal of this game is to enable young children to learn about healthy eating and to improve their decision-making speed.
 In this game you are playing the role of a little kid. You should eat healthy and stay away from unhealthy food.
