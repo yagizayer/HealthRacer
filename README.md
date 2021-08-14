@@ -3,7 +3,7 @@
 # Health Racer Game
 ## Platform and Engine
 
- - **Platform :** Android (4.0 or above)
+ - **Platform :** Android (4.0 or above) and WebGL
  - **Engine :** Unity 2020.3.12f1 
  - **Prototype :**  https://yagizayer.github.io/HealthRacer/
  
