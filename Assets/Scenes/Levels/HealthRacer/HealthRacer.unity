@@ -2903,8 +2903,8 @@ MonoBehaviour:
     m_RichText: 1
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
-    m_LineSpacing: 1
-  m_Text: "Onun alt\u0131ndaki \nmor bar ise Toplam \naburcubur de\u011Ferini g\xF6steriyor"
+    m_LineSpacing: 2
+  m_Text: "The purple bar below it \nshows the Total junk food value."
 --- !u!222 &257474512
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3447,9 +3447,9 @@ MonoBehaviour:
     m_RichText: 1
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
-    m_LineSpacing: 1
-  m_Text: "Sa\u011F \xFCstteki ye\u015Fil bar \nald\u0131\u011F\u0131n \xFCr\xFCnlerin\nToplam
-    besin de\u011Ferini g\xF6steriyor"
+    m_LineSpacing: 2
+  m_Text: "The green bar in the upper right \nshows the total nutritional value of
+    \nthe products you buy."
 --- !u!222 &319349947
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3956,7 +3956,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "B\xF6l\xFCm Ba\u015Far\u0131s\u0131z"
+  m_Text: Level Failed
 --- !u!222 &348159889
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -6603,7 +6603,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: -37}
+  m_AnchoredPosition: {x: 0, y: -60}
   m_SizeDelta: {x: 0, y: 200}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &625979687
@@ -6638,9 +6638,9 @@ MonoBehaviour:
     m_RichText: 1
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
-    m_LineSpacing: 1.15
-  m_Text: "Oyunu kazamak i\xE7in \nS\xFCre dolmadan ve\nAburcubur bar\u0131n\u0131
-    doldurmadan\nAl\u0131\u015Fveri\u015Fi tamamlay\u0131p \nmarketten \xE7\u0131kmal\u0131s\u0131n"
+    m_LineSpacing: 1.5
+  m_Text: "To win the game, \nYou must complete the Shopping and \nExit the market
+    before the \nTime runs out and the \nJunk Food bar is full."
 --- !u!222 &625979688
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -8936,7 +8936,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "B\xF6l\xFCm\xFC Yenile"
+  m_Text: Restart
 --- !u!222 &835498518
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -9519,7 +9519,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "B\xF6l\xFCm\xFC Yenile"
+  m_Text: Restart
 --- !u!222 &857634724
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -9738,7 +9738,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 75}
+  m_AnchoredPosition: {x: 0, y: 102}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &902655333
@@ -9774,7 +9774,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "Son derece sa\u011Fl\u0131kl\u0131 se\xE7imler yapt\u0131n\nTebrikler!"
+  m_Text: "You've made extremely \nhealthy choices\r\nCongratulations!"
 --- !u!222 &902655334
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -10149,8 +10149,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9f7388fade7979c4182d527dc83dd3cf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  screenOrientation: 3
-  texts: []
 --- !u!1001 &963572828
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -15440,7 +15438,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: Devam et
+  m_Text: Resume
 --- !u!222 &1420540750
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -15545,7 +15543,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "B\xF6l\xFCm\xFC Yenile"
+  m_Text: Restart
 --- !u!222 &1432627623
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -16992,8 +16990,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "\xC7ok fazla abur cubur ald\u0131n. \nBir dahaki sefere daha\nsa\u011Fl\u0131kl\u0131
-    \u015Feyler se\xE7meyi dene."
+  m_Text: "You bought too much junk food.\r\nTry choosing healthier \nthings next
+    time."
 --- !u!222 &1587769799
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -18226,7 +18224,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "Ba\u015Fla"
+  m_Text: Start
 --- !u!222 &1693452481
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -19414,7 +19412,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "B\xF6l\xFCm\xFC Yenile"
+  m_Text: Restart
 --- !u!222 &1787517073
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -21657,7 +21655,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "B\xF6l\xFCm Ba\u015Far\u0131l\u0131"
+  m_Text: Level Cleared
 --- !u!222 &1956542254
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -22893,9 +22891,9 @@ MonoBehaviour:
     m_RichText: 1
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
-    m_LineSpacing: 1
-  m_Text: "Amac\u0131n s\xFCre bitmeden \nev i\xE7in sa\u011Fl\u0131kl\u0131 besinler
-    almak"
+    m_LineSpacing: 2
+  m_Text: "Your goal is to get \nhealthy food for the house \nbefore the time runs
+    out."
 --- !u!222 &2055203494
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -24260,7 +24258,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "B\xF6l\xFCm\xFC Yenile"
+  m_Text: Restart
 --- !u!222 &2116388615
 CanvasRenderer:
   m_ObjectHideFlags: 0
