@@ -181,6 +181,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   food: {fileID: 0}
+  foodName: 
 --- !u!1 &1742653530613944343
 GameObject:
   m_ObjectHideFlags: 0
