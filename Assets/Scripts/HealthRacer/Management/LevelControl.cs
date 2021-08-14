@@ -310,14 +310,14 @@ public class LevelControl : MonoBehaviour
 
         CountDownText.gameObject.SetActive(true);
         int sayac = seconds;
-        CountDownText.text = "Hazır!";
+        CountDownText.text = "Ready!";
         while (sayac >= 0)
         {
             yield return new WaitForSecondsRealtime(1);
             CountDownText.text = sayac.ToString();
             sayac--;
         }
-        CountDownText.text = "Başla!";
+        CountDownText.text = "Start!";
         yield return new WaitForSecondsRealtime(1);
         CountDownText.gameObject.SetActive(false);
 
